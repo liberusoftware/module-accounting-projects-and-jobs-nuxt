@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-projects-and-jobs-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-projects-and-jobs",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-projects-and-jobs-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/projects-and-jobs.md",
+  "presentationPlan": "projects/accounting/nuxt/projects-and-jobs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
